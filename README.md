@@ -1,0 +1,2 @@
+# ros2_book_commercialize_project_jp
+「商用ロボット開発のためのROS2プログラミング」プロジェクト用のワイガヤリポジトリ
